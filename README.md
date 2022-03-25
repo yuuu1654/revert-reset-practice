@@ -1,3 +1,2 @@
 # revert-reset-practice
-
-間違えて変更
+revertするために編集しました
